@@ -5,8 +5,6 @@ SpringBoot을 REST API로 사용하여 네이버뉴스에 검색후 조회되는
 
 ### 1. Spring Boot로 프로젝트 생성하기  
 - Spring Boot 사이트(https://start.spring.io/) 접속 후 프로젝트 생성 (이때 Dependency는 Spring Web 추가할 것)
-- 생성된 프로젝트를 개인 IDE에서 실행 (java 경로에 생성된 프로젝트명.java 파일에서 Run(F5)으로 실행)
-- Controller 추가 후 프로젝트 실행하기 (초기 Port : 8080) 테스트는 localhost:8080/hello 로 호출하면 json 데이터를 Return 받을 수 있다. 
 <img src="./scan/spring initializr.png"  width="800" >  
 
 ### 2. build.gradle에 의존성 추가
